@@ -1,10 +1,10 @@
 -Hi, I’m Justin Smolinski @JSmolins
 
--I’m interested in web development and study Software Engineering at Oakland Community College.
+-I’m interested in web development and study Computer Science at Oakland Community College.
 
--Concurrently I'm learning HTML5, CSS3, and JavaScript on The Odin Project.
+-I'm currently learning HTML5, CSS3, and JavaScript on The Odin Project.
 
--I’m looking to collaborate on open-source web applications.
+-I’m looking to collaborate on open-source web applications!
 
 -Reach me @ jsmolins@ymail.com !
 
